@@ -1,3 +1,4 @@
 Carthage/Build/iOS/Charts.framework/* filter=lfs diff=lfs merge=lfs -text
 Carthage/Build/iOS/Charts.framework/** filter=lfs diff=lfs merge=lfs -text
 Carthage/Build/iOS/Charts.dSYM/** filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
